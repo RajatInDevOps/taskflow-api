@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# Node
+node_modules/
+npm-debug.log*
+
+# Java
+target/
+*.class
+
+# Go
+/inventory
+*.exe
+
+# Editors / OS
+.idea/
+.vscode/
+.DS_Store
